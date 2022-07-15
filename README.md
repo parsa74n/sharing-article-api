@@ -49,7 +49,7 @@ in postman or other application send post request with json format boby to http:
 {
     "username":"example",
     "phone_number":12345,
-    "example@email.com",
+    "email":"example@email.com",
     "password1":"pass",
     "password2":"pass"
 }
