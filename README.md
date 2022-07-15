@@ -5,8 +5,8 @@
 
 #### Clone the repository :
 ```bash
-$ git clone https://github.com/erfanghorbanee/Django-Ecommerce.git
-$ cd django-ecommerce
+$ git clone https://github.com/parsa74n/sharing-article-api.git
+$ cd sharing-article-api
 ```
 
 #### Create a virtualenv and activate it:
